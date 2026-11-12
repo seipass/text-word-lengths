@@ -1,0 +1,8 @@
+[project]
+name = "text-word-lengths"
+version = "0.1.0"
+description = "Report word lengths"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
